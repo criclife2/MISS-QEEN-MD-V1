@@ -10,6 +10,6 @@ Result from *${text}*
 }
 handler.help = ['gimage', 'img']
 handler.tags = ['internet', 'tools']
-handler.command = /^(gimage|image)$/i
+handler.command = /^(gimage|img)$/i
 
 export default handler
