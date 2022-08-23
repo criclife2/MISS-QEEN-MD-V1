@@ -8,7 +8,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 Result from *${text}*
 `.trim(), m)
 }
-handler.help = ['gimage', 'image']
+handler.help = ['gimage', 'img']
 handler.tags = ['internet', 'tools']
 handler.command = /^(gimage|image)$/i
 
