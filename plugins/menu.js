@@ -41,7 +41,7 @@ const defaultMenu = {
 
 %readmore`.trimStart(),
   header: '╭━━━❰ %category ❱',
-  body: '┋ ❮🎭❯ %cmd %islimit %isPremium',
+  body: '╠═ၜ %cmd %islimit %isPremium',
   footer: '┗☆✼★━━━━━━━★✼☆｡\n',
   after: `
 ⫺╤╤ 𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵 ╤╤⫹
